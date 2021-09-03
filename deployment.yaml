@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.traefik.com.br
+  - host: go.traefik.philtecnologia.com.br
     http:
       paths:
         - path: /
